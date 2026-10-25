@@ -1,4 +1,4 @@
-# Vietnam Export Analysis (1997 - 2020) 
+# Vietnam Export Concentration & Diversification Analysis (1997–2020)
 
 ## Project Overview
 This project analyzes the historical growth and structural transformation of Vietnam's merchandise exports from 1997 to 2020. It evaluates destination market concentration, bilateral trade dynamics with key economic superpowers (US, China), and long-term diversification across emerging trade partners.
